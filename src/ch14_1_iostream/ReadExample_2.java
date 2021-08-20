@@ -1,4 +1,4 @@
-package ch14_iostream;
+package ch14_1_iostream;
 
 import java.io.FileReader;
 import java.io.Reader;

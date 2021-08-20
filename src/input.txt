@@ -1,0 +1,8 @@
+ id = call1212
+ eng_name=ji
+# kor_name=Áö
+ kor_name=Àº
+ data=1,2,3,4,5
+ c:/Temp
+
+
